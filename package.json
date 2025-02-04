@@ -1,0 +1,13 @@
+{
+  "name": "clean_architeture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^6.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "prisma": "^6.2.1"
+  }
+}
